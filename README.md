@@ -1,9 +1,3 @@
-# Miscellaneous Links
-- [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
-- [Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
-- [CNCF Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
-- [GitOps Patterns](https://github.com/cloudogu/gitops-patterns)
-
 # Miscellaneous Books
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
@@ -35,8 +29,14 @@
 
 # Youtube Channels
 - [Marco Lenzo](https://www.youtube.com/@MarcoLenzo/videos)
-- [Geekific]([https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/](https://www.youtube.com/@geekific))
-- [Mark Richards](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
+- [Geekific](https://www.youtube.com/@geekific/videos)
+- [Mark Richards](https://www.youtube.com/@markrichards5014/videos)
 - [DevOps Toolkit](https://www.youtube.com/@DevOpsToolkit)
 - [DevOps Paradox](https://www.youtube.com/@DevOpsParadox)
 - [HealthyDev](https://www.youtube.com/@HealthyDev)
+
+# Miscellaneous Links
+- [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
+- [Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
+- [CNCF Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
+- [GitOps Patterns](https://github.com/cloudogu/gitops-patterns)
