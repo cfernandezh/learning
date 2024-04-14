@@ -26,6 +26,7 @@
 - [Building Evolutionary Architectures](https://www.oreilly.com/library/view/building-evolutionary-architectures/9781492097532/)
 - [Software Architecture Metrics](https://www.oreilly.com/library/view/software-architecture-metrics/9781098112226/)
 - [Head First Software Architecture](https://www.oreilly.com/library/view/head-first-software/9781098134341/)
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
 
 # Youtube Channels
 - [Marco Lenzo](https://www.youtube.com/@MarcoLenzo/videos)
